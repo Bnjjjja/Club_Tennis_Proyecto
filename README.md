@@ -1,7 +1,7 @@
 # Django-Crud
 .
 # ClubTennis
-REQUERIMIENTO:
+REQUERIMIENTO: Socios
 
 
 
